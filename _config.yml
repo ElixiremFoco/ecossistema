@@ -1,19 +1,12 @@
-logo: /images/logo.png
-title: Ecossitema Elixir
-description: Alguns atores do Ecossitema de Elixir
-url: https://elixiremfoco.com/ecossitema
-plugins: 
-  - jekyll-seo-tag
+title: Ecossistema Elixir em Foco
+description: Mapa do ecossistema de apoio ao desenvolvedor na linguagem Elixir.
+theme: minima
 
+# Como é um Project Page, o baseurl deve ser o nome do repositório
+url: "https://elixiremfoco.github.io"
+baseurl: "/ecossistema.github.io"
 
-defaults:
-
-scope:
-path: ""
-values:
-image:
-path: /images/logo_site.png
-width: 1200
-height: 630
-alt: Elixir em Foco (Logo)
-
+# Opções extras
+lang: pt-BR
+author: Elixir em Foco
+github_username: Lucas_Leyser
