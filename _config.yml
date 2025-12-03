@@ -1,12 +1,12 @@
-title: Ecossistema Elixir em Foco
-description: Mapa do ecossistema de apoio ao desenvolvedor na linguagem Elixir.
+title: Ecossistema de Software Elixir
+description: Alguns dos atores do ecossistema da linguagem Elixir.
 theme: minima
 
 # Como é um Project Page, o baseurl deve ser o nome do repositório
 url: "https://elixiremfoco.github.io"
-baseurl: "/ecossistema.github.io"
+baseurl: "/ecossistema"
 
 # Opções extras
 lang: pt-BR
-author: Elixir em Foco
+author: Lucas Leyser
 github_username: Lucas_Leyser
