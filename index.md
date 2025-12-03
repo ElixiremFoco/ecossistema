@@ -20,25 +20,15 @@ O GitHub é o local onde está hospedado o código-fonte oficial da linguagem El
 
 [Repositório Base](https://github.com/elixir-lang)
 
-**Repositórios principais:**
-
 [Elixir (código-fonte da linguagem)](https://github.com/elixir-lang/elixir)
 
-[Hex e HexPM](https://github.com/hexpm)
-
-[Documentação](https://hexdocs.pm/elixir/introduction.html)
-
-A documentação oficial possui duas frentes principais:
-
-[Documentação oficial da linguagem](elixir-lang.org)
-
-Inclui guias completos, introdução à linguagem, documentação das bibliotecas padrão e informações sobre lançamentos.
+[Documentação oficial da linguagem](https://elixir-lang.org) Inclui guias completos, introdução à linguagem, documentação das bibliotecas padrão e informações sobre lançamentos.
 
 ## **Repositórios de Pacotes no Hex.pm**
 
-O Hex.pm é o gerenciador oficial de pacotes da linguagem Elixir e da plataforma BEAM. Ele hospeda bibliotecas, frameworks e ferramentas essenciais para desenvolvimento em Elixir, incluindo o Phoenix, Ecto e dezenas de projetos da comunidade.
+O [Hex.pm](https://hex.pm/) é o gerenciador oficial de pacotes da linguagem Elixir e da plataforma BEAM. Ele hospeda bibliotecas, frameworks e ferramentas essenciais para desenvolvimento em Elixir, incluindo o Phoenix, Ecto e dezenas de projetos da comunidade.
 
-Principais pacotes:
+[Repositório Hex e HexPM](https://github.com/hexpm)
 
 [Phoenix Framework](https://hex.pm/packages/phoenix)
 
@@ -48,19 +38,15 @@ Principais pacotes:
 
 [ExUnit](https://hex.pm/packages/ex_unit) - Testes
 
-Página geral do [Hex.pm](https://hex.pm/)
-
-HexDocs – Documentação gerada pelos pacotes
+**HexDocs – Documentação gerada pelos pacotes**
 
 O HexDocs reúne documentação automática dos pacotes publicados no Hex.pm, além da documentação oficial das versões do Elixir, Mix, ExUnit e outras bibliotecas do core.
-Exemplos:
+
+[Documentação HexDocs](https://hexdocs.pm/elixir/introduction.html)
 
 [Documentação do Mix](https://hexdocs.pm/mix/1.19.2/Mix.html)
 
 [Documentação do ExUnit](https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html)
-
-Página geral do [HexDocs](https://hexdocs.pm/)
-
 
 ## **Escopo e limitações**
 
