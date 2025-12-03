@@ -38,11 +38,13 @@ _Última atualização: 03/12/2025_.
 ## **Elixir Forum**
 
 O Elixir Forum é um dos senão o maior ponto de encontro da comunidade global da linguagem Elixir. Funciona como um espaço de discussão técnica, suporte entre desenvolvedores, divulgação de projetos, tutoriais e debates sobre práticas de desenvolvimento. É amplamente reconhecido como um dos pilares da comunidade, por sua organização e participação ativa de membros experientes.
+
 [Elixir Forum](https://elixirforum.com/)
 
 ## **Repositórios Oficiais do Elixir (GitHub)**
 
 O GitHub é o local onde está hospedado o código-fonte oficial da linguagem Elixir. Esses repositórios incluem a implementação da linguagem, documentação, ferramentas, bibliotecas padrão e outros projetos essenciais mantidos pelo time principal com grande colaboração de desenvolvedores da comunidade.
+
 [Repositório Base](https://github.com/elixir-lang)
 
 **Repositórios principais:**
