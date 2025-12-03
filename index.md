@@ -30,11 +30,11 @@ O [Hex.pm](https://hex.pm/) é o gerenciador oficial de pacotes da linguagem Eli
 
 [Repositório Hex e HexPM](https://github.com/hexpm)
 
-[Phoenix Framework](https://hex.pm/packages/phoenix)
+[Phoenix](https://hex.pm/packages/phoenix) - Framework
 
 [Ecto](https://hex.pm/packages/ecto) - Banco de dados
 
-[LiveView](https://hex.pm/packages/phoenix_live_view)
+[LiveView](https://hex.pm/packages/phoenix_live_view) - Interfaces
 
 **HexDocs – Documentação gerada pelos pacotes**
 
