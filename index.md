@@ -61,7 +61,7 @@ A principal conferência global dedicada ao ecossistema BEAM (Erlang, Elixir e t
 
 [ElixirConf EUA](https://elixirconf.com/)
 
-A maior conferência da comunidade Elixir nos Estados Unidos. Reúne criadores da linguagem, membros do core team, empresas e especialistas para discussões técnicas, workshops e apresentações de casos de uso.
+A maior conferência da comunidade Elixir nos Estados Unidos. Reúne criadores da linguagem, membros do _core team_, empresas e especialistas para discussões técnicas, workshops e apresentações de casos de uso.
 
 [ElixirConf EU](https://www.elixirconf.eu/)
 
