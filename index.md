@@ -60,6 +60,7 @@ _Última atualização: 03/12/2025_.
 O ecossistema Elixir é fortemente apoiado por conferências que reúnem desenvolvedores, pesquisadores, empresas e membros da comunidade. Esses eventos desempenham um papel fundamental na disseminação de conhecimento, apresentação de novas ferramentas, fortalecimento da comunidade e troca de experiências sobre a plataforma BEAM.
 
 **Conferências Internacionais**
+
 [Code BEAM](https://codesync.global/conferences/)
 
 A principal conferência global dedicada ao ecossistema BEAM (Erlang, Elixir e tecnologias relacionadas). É organizada pela Erlang Solutions e ocorre em diversas edições ao redor do mundo. Inclui trilhas sobre sistemas distribuídos, tolerância a falhas, aplicações em larga escala e avanços na plataforma BEAM.
@@ -92,10 +93,13 @@ Palestras disponíveis no [YouTube: @ElixirBrasil](https://www.youtube.com/@Elix
 
 [Elixir Fortaleza 2023](https://2023.elixir.fortal.br/)
 
+Retomada dos eventos presenciais no país, realizada no campus da Universidade Federal do Ceará (UFC).
+
 [Elixir Curitiba 2024 e 2025](https://curitiba.elixiremfoco.com/)
 
 Ambas as
 edições de Curitiba foram organizadas pelo Prof. Dr. Adolfo Neto.
 
 [CodeBEAM Brasil](https://www.codebeambr.com/)
+
 Com edições em 2020, 2021 e 2022 desempenharam um papel relevante na disseminação de conhecimentos sobre Elixir e Erlang no país. Palestras do Prof. Dr. Adolfo Neto nas edições de 2021 e 2022. 
