@@ -4,7 +4,7 @@ theme: minima
 
 # Como é um Project Page, o baseurl deve ser o nome do repositório
 url: "https://elixiremfoco.github.io"
-baseurl: "/ecossistema"
+baseurl: "/ecossistema.github.io"
 
 # Opções extras
 lang: pt-BR
