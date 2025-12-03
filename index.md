@@ -62,7 +62,7 @@ Exemplos:
 Página geral do [HexDocs](https://hexdocs.pm/)
 
 
-## Escopo e limitações
+## **Escopo e limitações**
 
 Os atores apresentados aqui não são os únicos que compõem o ecossistema de Elixir.  
 Novas iniciativas surgem com frequência e algumas podem deixar de existir ou mudar de foco ao longo do tempo.

@@ -8,15 +8,15 @@ Este site faz parte de um esforço de documentação e divulgação do **ecossis
 
 ## Escopo atual
 
-Atualmente, o foco está em:
+Atualmente, os atores analisados foram:
 
 - Comunidades e fóruns de discussão;
-- Eventos e conferências relacionados a Elixir;
+- Eventos e conferências relacionados a Elixir e Erlang;
 - Repositórios e projetos abertos que apoiam o uso da linguagem;
 
 ## Possíveis extensões futuras
 
-Trabalhos futuros — e evoluções deste site — podem incluir:
+Trabalhos futuros e evoluções deste site podem incluir:
 
 - Análise de **redes sociais** (por exemplo, X/Twitter, LinkedIn);
 - Mapeamento de **canais no YouTube** dedicados a Elixir e BEAM;
@@ -26,5 +26,4 @@ Esses atores não foram explorados no estudo original, mas têm forte influênci
 
 ## Aviso sobre atualização
 
-O conteúdo aqui apresentado reflete o estado do ecossistema no período em que a pesquisa foi realizada e a página foi construída.  
-Mudanças de URLs, encerramento de projetos e surgimento de novas iniciativas são esperados, de modo que este site deve ser visto como um registro em constante evolução.
+O conteúdo aqui apresentado reflete o estado do ecossistema no período em que a pesquisa foi realizada e a página foi construída. Mudanças de URLs, encerramento de projetos e surgimento de novas iniciativas são esperados, de modo que este site deve ser visto como um registro em constante evolução.
