@@ -1,41 +1,15 @@
 ---
 layout: home
-title: Ecossistema de Elixir
+title: Ecossistema de Software de Elixir
 ---
 
-# Ecossistema de Software de Elixir
+Este site apresenta um panorama do ecossistema de software da linguagem **Elixir**, com foco em como diferentes atores, comunidades, fóruns, eventos, repositórios e outras plataformas contribuem para aprendizagem, colaboração e evolução da linguagem.
 
-Este site apresenta um panorama do ecossistema de apoio ao desenvolvedor na linguagem **Elixir**, com foco em como diferentes atores, comunidades, fóruns, eventos, repositórios e outras plataformas contribuem para aprendizagem, colaboração e evolução da linguagem.
+O objetivo é formular um material de apoio para estudantes, pesquisadores e desenvolvedores. Facilitando o acesso a alguns dos atores do ecossistema de Elixir.
 
-> Este projeto nasce como desdobramento de um Trabalho de Conclusão de Curso (TCC) sobre o ecossistema de Elixir, e não pretende esgotar todos os atores existentes, mas oferecer um ponto de partida organizado para consulta e pesquisa.
+> Este projeto nasce como desdobramento de um Trabalho de Conclusão de Curso (TCC) sobre o ecossistema de Elixir, que não pretende esgotar todos os atores existentes, mas oferecer um ponto de partida organizado para consulta e pesquisa.
 
-## Objetivos do site
-
-- Mapear atores relevantes do ecossistema de Elixir.
-- Fornecer links e descrições de comunidades, eventos e recursos.
-- Servir como material de apoio para estudantes, pesquisadores e desenvolvedores.
-
-## Seções planejadas
-
-- **Comunidades e Fóruns**  
-  Elixir Forum, Slack, Discord, grupos em redes sociais, etc.
-
-- **Eventos e Conferências**  
-  Elixir Brasil, CodeBEAM, meetups locais e outros encontros.
-
-- **Repositórios e Código Aberto**  
-  Projetos de referência, bibliotecas populares e ferramentas de suporte.
-
-## Escopo e limitações
-
-Os atores apresentados aqui não são os únicos que compõem o ecossistema de Elixir.  
-Novas iniciativas surgem com frequência e algumas podem deixar de existir ou mudar de foco ao longo do tempo.
-
-Este conteúdo deve ser entendido como um **recorte** do ecossistema, sujeito a atualização e expansão futuras.
-
-_Última atualização: 03/12/2025_.
-
-[## **Elixir Forum**](https://elixirforum.com/)
+##**Elixir Forum**
 
 O Elixir Forum é um dos senão o maior ponto de encontro da comunidade global da linguagem Elixir. Funciona como um espaço de discussão técnica, suporte entre desenvolvedores, divulgação de projetos, tutoriais e debates sobre práticas de desenvolvimento. É amplamente reconhecido como um dos pilares da comunidade, por sua organização e participação ativa de membros experientes.
 
@@ -91,3 +65,13 @@ Documentação do ExUnit: https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html
 
 Página geral do HexDocs:
 🔗 https://hexdocs.pm/
+
+
+## Escopo e limitações
+
+Os atores apresentados aqui não são os únicos que compõem o ecossistema de Elixir.  
+Novas iniciativas surgem com frequência e algumas podem deixar de existir ou mudar de foco ao longo do tempo.
+
+Este conteúdo deve ser entendido como um **recorte** do ecossistema, sujeito a atualização e expansão futuras.
+
+_Última atualização: 03/12/2025_.
