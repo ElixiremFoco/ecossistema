@@ -9,13 +9,12 @@ O objetivo é formular um material de apoio para estudantes, pesquisadores e des
 
 > Este projeto nasce como desdobramento de um Trabalho de Conclusão de Curso (TCC) sobre o ecossistema de Elixir, que não pretende esgotar todos os atores existentes, mas oferecer um ponto de partida organizado para consulta e pesquisa.
 
-##**Elixir Forum**
+## **Elixir Forum**
 
-O Elixir Forum é um dos senão o maior ponto de encontro da comunidade global da linguagem Elixir. Funciona como um espaço de discussão técnica, suporte entre desenvolvedores, divulgação de projetos, tutoriais e debates sobre práticas de desenvolvimento. É amplamente reconhecido como um dos pilares da comunidade, por sua organização e participação ativa de membros experientes.
+O [Elixir Forum](https://elixirforum.com/) é um dos senão o maior ponto de encontro da comunidade global da linguagem Elixir. Funciona como um espaço de discussão técnica, suporte entre desenvolvedores, divulgação de projetos, tutoriais e debates sobre práticas de desenvolvimento. É amplamente reconhecido como um dos pilares da comunidade, por sua organização e participação ativa de membros experientes.
 
-[Elixir Forum](https://elixirforum.com/)
 
-## **Repositórios Oficiais do Elixir (GitHub)**
+## **Repositórios Oficiais do Elixir no GitHub**
 
 O GitHub é o local onde está hospedado o código-fonte oficial da linguagem Elixir. Esses repositórios incluem a implementação da linguagem, documentação, ferramentas, bibliotecas padrão e outros projetos essenciais mantidos pelo time principal com grande colaboração de desenvolvedores da comunidade.
 
