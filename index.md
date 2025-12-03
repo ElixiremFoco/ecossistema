@@ -22,7 +22,7 @@ O GitHub é o local onde está hospedado o código-fonte oficial da linguagem El
 
 [Elixir (código-fonte da linguagem)](https://github.com/elixir-lang/elixir)
 
-[Documentação oficial da linguagem](https://elixir-lang.org) Inclui guias completos, introdução à linguagem, documentação das bibliotecas padrão e informações sobre lançamentos.
+[Documentação oficial da linguagem](https://elixir-lang.org) - Inclui guias completos, introdução à linguagem, documentação das bibliotecas padrão e informações sobre lançamentos.
 
 ## **Repositórios de Pacotes no Hex.pm**
 
@@ -36,17 +36,16 @@ O [Hex.pm](https://hex.pm/) é o gerenciador oficial de pacotes da linguagem Eli
 
 [LiveView](https://hex.pm/packages/phoenix_live_view)
 
-[ExUnit](https://hex.pm/packages/ex_unit) - Testes
-
 **HexDocs – Documentação gerada pelos pacotes**
 
 O HexDocs reúne documentação automática dos pacotes publicados no Hex.pm, além da documentação oficial das versões do Elixir, Mix, ExUnit e outras bibliotecas do core.
 
-[Documentação HexDocs](https://hexdocs.pm/elixir/introduction.html)
+Algumas documentações mais utilizadas:
+[HexDocs](https://hexdocs.pm/elixir/introduction.html)
 
-[Documentação do Mix](https://hexdocs.pm/mix/1.19.2/Mix.html)
+[Mix](https://hexdocs.pm/mix/1.19.2/Mix.html)
 
-[Documentação do ExUnit](https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html)
+[ExUnit](https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html)
 
 ## **Escopo e limitações**
 
