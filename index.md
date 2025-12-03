@@ -44,9 +44,9 @@ Algumas documentações mais utilizadas:
 
 [HexDocs](https://hexdocs.pm/elixir/introduction.html)
 
-[Mix](https://hexdocs.pm/mix/1.19.2/Mix.html)
+[Mix](https://hexdocs.pm/mix/1.19.2/Mix.html) - Utilitário de Elixir
 
-[ExUnit](https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html)
+[ExUnit](https://hexdocs.pm/ex_unit/1.19.2/ExUnit.html) - Pacote para testes
 
 
 ## **Conferências de Elixir e Erlang**
