@@ -5,6 +5,7 @@ permalink: /sobre/
 ---
 
 Este site faz parte de um esforço de documentação e divulgação do **ecossistema de software da linguagem Elixir**, derivado de um Trabalho de Conclusão de Curso (TCC). O estudo original analisa apenas um **subconjunto** dos atores do ecossistema, representados neste site.
+[Baixar PDF do TCC](/files/tcc.pdf)
 
 ## Escopo atual
 
