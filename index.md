@@ -82,7 +82,7 @@ Segunda edição da conferência nacional. Destaque para a palestra “A Comunid
 
 [Elixir Brasil 2020](https://2020.elixirbrasil.com/pt/) e [Elixir Brasil 2021](https://2021.elixirbrasil.com/pt/)
 
-Ambas as edições foram totalmente online, realizada durante a pandemia. Contou com grande alcance devido ao formato virtual.
+Ambas as edições foram totalmente online, realizadas durante a pandemia. Tiveram grande alcance devido ao formato virtual.
 Palestras disponíveis no [YouTube: @ElixirBrasil](https://www.youtube.com/@ElixirBrasil)
 
 [Elixir Fortaleza 2023](https://2023.elixir.fortal.br/)
