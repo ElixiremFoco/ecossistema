@@ -18,9 +18,9 @@ O [Elixir Forum](https://elixirforum.com/) é um dos, senão o maior, ponto de e
 
 O GitHub é o local onde está hospedado o código-fonte oficial da linguagem Elixir. Esses repositórios incluem a implementação da linguagem, documentação, ferramentas, bibliotecas padrão e outros projetos essenciais mantidos pelo time principal com grande colaboração de desenvolvedores da comunidade.
 
-[Repositório Base](https://github.com/elixir-lang)
+[Organização elixir-lang no GitHub](https://github.com/elixir-lang)
 
-[Elixir](https://github.com/elixir-lang/elixir) - Código-fonte da linguagem
+[Código-fonte da linguagem da linguagem Elixir](https://github.com/elixir-lang/elixir)
 
 [Documentação da linguagem](https://elixir-lang.org) - Inclui guias completos, introdução à linguagem, documentação das bibliotecas padrão e informações sobre lançamentos.
 
